@@ -1,0 +1,98 @@
+body {
+  margin: 0;
+  background-color: white;
+}
+
+.coluna {
+  background-color: lightblue;
+}
+
+.preto {
+  border: 40px solid black;
+}
+
+.cinza {
+  border: 40px solid grey;
+}
+
+.salmon {
+  border: 40px solid salmon;
+}
+
+.lightpink {
+  border: 40px solid lightpink;
+}
+
+.container {
+  max-width: 75%;
+  margin: 0 auto;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 15px;
+}
+
+.container2 {
+  display: flex;
+}
+
+.full-width {
+  background-color: lightblue;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.portfolio2 {
+  display: flex;
+}
+
+.portfolio2 img {
+  max-width: 75%;
+  height: auto;
+}
+
+.container3 {
+  max-width: 100%;
+  background-color: lightblue
+}
+
+.portfolio3 {
+  display: flex;
+  gap: 100px;
+  margin-top: 75px;
+}
+
+.portfolio3 img {
+  max-width: 80%;
+  height: auto;
+}
+
+.results {
+  height: 20px;
+  max-width: 75%;
+  margin: 0 auto;
+  color: grey;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 13px;
+}
+
+.portfolio4 {
+  display: flex;
+  gap: 100px;
+  margin-top: 75px;
+  background-color: lightgrey;
+}
+
+.back {
+  max-width: 75%;
+  height: auto;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 13px;
+}
+
+.stay {
+  max-width: 75%;
+  height: auto;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 13px;
+}
+
+
